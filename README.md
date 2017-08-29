@@ -7,10 +7,10 @@ Hintergrund:  Mithilfe der Währung können wir eine Art Bonusprogramm einführe
 beim herumschweifen duch die unzähligen chats der streamer ist mir aufgefallen das fast alle mehr als 2 bots gleichzeitig laufen haben. die größeren sogar im schnitt um die 5-7. ich würde den bot gern so weit erweitern, das dieser die möglichkeiten der anderen mit aufgreift um so einen bot zu schaffen zum einen die comunity-fähigkeiten aufweist und zum anderen auch die der einzelnen streamer in der Community mit allem möglichen addons versorgt.
 
 # Registratur auf Twitch (durch twitch.tv/subbyberlin)
-  Name: TwitchComBot
-  Redirect URI: http://dummy
-  Application Category: "Chat Bot"
-  ClientID:<clientid>
+  - Name: TwitchComBot
+  - Redirect URI: http://dummy
+  - Application Category: "Chat Bot"
+  - ClientID:<clientid>
 
 # Communityfeatures:
 * Streamerinfos
